@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ex1\ex1\bin\Debug\ex1.exe.config
+C:\Users\HP\source\repos\ex1\ex1\bin\Debug\ex1.exe
+C:\Users\HP\source\repos\ex1\ex1\bin\Debug\ex1.pdb
+C:\Users\HP\source\repos\ex1\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ex1\ex1\obj\Debug\ex1.Form1.resources
+C:\Users\HP\source\repos\ex1\ex1\obj\Debug\ex1.Properties.Resources.resources
+C:\Users\HP\source\repos\ex1\ex1\obj\Debug\ex1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ex1\ex1\obj\Debug\ex1.exe
+C:\Users\HP\source\repos\ex1\ex1\obj\Debug\ex1.pdb
